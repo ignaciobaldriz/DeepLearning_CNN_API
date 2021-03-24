@@ -1,0 +1,52 @@
+'''
+_______________________________________________
+METRICS
+
+model.py
+
+Accuracy of the last model: ------------------------------------------------- 96.52%
+Lower loss registered in epoch 2/2 step 600/600: ---------------------------- 0.0505
+
+model_cnn.py
+
+Accuracy of the last model: ------------------------------------------------- 96.28%
+Lower loss registered in epoch 2/2 step 600/600: ---------------------------- 0.0959
+
+model_cnn2.py
+
+Accuracy of the last model: ------------------------------------------------- 98.19%
+Lower loss registered in epoch 2/2 step 600/600: ---------------------------- 0.0392
+_______________________________________________
+NOTES AND LINKS FOR THE PROJECT
+
+- Tutorial (Youtube video):
+https://www.youtube.com/watch?v=bA7-DEtYCNM&t=115s
+
+- Classification MNIST model (Github doc):
+https://github.com/python-engineer/pytorchTutorial/blob/master/13_feedforward.py
+
+- Original project (Github repo):
+https://github.com/python-engineer/pytorch-examples/tree/master/pytorch-flask-deploy
+
+- Transfer learning with MNIST database (Github repo):
+https://github.com/EdenMelaku/Transfer-Learning-Pytorch-Implementation
+
+https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce
+
+https://www.kaggle.com/tonysun94/pytorch-1-0-1-on-mnist-acc-99-8
+
+https://www.youtube.com/watch?v=Upw4RaERZic
+
+https://www.youtube.com/watch?v=qaDe0qQZ5AQ
+
+- Packages imports:
+https://realpython.com/absolute-vs-relative-python-imports/
+
+- How to perform Cross Validation in Pytorch:
+https://www.machinecurve.com/index.php/2021/02/03/how-to-use-k-fold-cross-validation-with-pytorch/
+
+
+
+
+'''
+
