@@ -7,9 +7,9 @@ Consists of a Deep Learning rest API with Convolutional Neural Networks in Pytho
 1. In the "model.py" file there is trained and generated the model. It is serialized and saved as "mnist_cnn_pht" inside the app folder
 
 2. In the app folder it is included: 
-- main.py: the Flask app code
-- mnist_cnn.pht: the model serialized and saved
-- torch_utils.py: utils to run the model in the app
+- "main.py": the Flask app code
+- "mnist_cnn.pht": the model serialized and saved
+- "torch_utils.py": utils to run the model in the app
      
 3. There is a data folder that includes only the test data (train is too large for the repository). The code to download both train and test are included in the "model.py" file
 
